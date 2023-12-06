@@ -2,7 +2,7 @@ module.exports = {
   'mr.': 'mr',
   'mrs.': 'mrs',
   'ms.': 'ms',
-  'mx.': 'mx',
+  'mx.': 'mdx',
   'dr.': 'dr',
   'prof.': 'prof'
 }
